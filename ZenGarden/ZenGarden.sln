@@ -1,0 +1,29 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{B09A7EF3-3457-211D-510B-2697028030BE}") = "ZenGarden", "Assembly-CSharp.csproj", "{DB630BFF-A530-D62A-E4C8-188CEA44814D}"
+EndProject
+Project("{B09A7EF3-3457-211D-510B-2697028030BE}") = "ZenGarden", "Assembly-CSharp-Editor.csproj", "{C7B0D976-19E4-7ED6-1C01-C08C83BEDC02}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DB630BFF-A530-D62A-E4C8-188CEA44814D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB630BFF-A530-D62A-E4C8-188CEA44814D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DB630BFF-A530-D62A-E4C8-188CEA44814D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DB630BFF-A530-D62A-E4C8-188CEA44814D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C7B0D976-19E4-7ED6-1C01-C08C83BEDC02}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C7B0D976-19E4-7ED6-1C01-C08C83BEDC02}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C7B0D976-19E4-7ED6-1C01-C08C83BEDC02}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C7B0D976-19E4-7ED6-1C01-C08C83BEDC02}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
